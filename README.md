@@ -24,4 +24,4 @@ Built with Streamlit | Dark theme enabled
 
 ---
 **Developed by Muhammad Abdullah**  
-© 2024 All rights reserved
+© 2025 All rights reserved
